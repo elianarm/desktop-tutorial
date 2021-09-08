@@ -1,0 +1,26 @@
+[
+{
+  "nombre": "Oferta Gatuna",
+  "productos": ["Equilibrio Gatos", "Caty"],
+  "precio": 1800,
+  "descuento": "5%",
+  "imagen" : "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg"
+  
+},
+{
+  "nombre": "Oferta Perruna",
+  "productos": ["Equilibrio Gatos", "Pedigree","Caty"],
+  "precio": 3600,
+  "descuento": "10%",
+  "imagen" : "https://cdn.pixabay.com/photo/2015/06/08/15/02/pug-801826_960_720.jpg"
+  
+},
+{
+  "nombre": "Oferta",
+  "productos": ["Pedigree", "Caty"],
+  "precio": 2300,
+  "descuento": "15%",
+  "imagen" :"https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074_960_720.jpg"
+}
+ 
+]
